@@ -1,0 +1,1 @@
+INSERT INTO home_security.activity (home_id, datetime, event, code_used) VALUES ('H00999943', '2014-05-24 12:45:59', 'alarm set', '1245');

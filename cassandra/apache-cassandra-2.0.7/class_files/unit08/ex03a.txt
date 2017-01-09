@@ -1,0 +1,1 @@
+CREATE TABLE location (vehicle_id text,date text,time timestamp,latitude double,longitude double,PRIMARY KEY ((vehicle_id, date), time)) WITH CLUSTERING ORDER BY (time DESC);

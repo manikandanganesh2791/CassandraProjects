@@ -1,0 +1,1 @@
+COPY home (home_id, address, city, state, zip, contact_name, phone, alt_phone, phone_password, email, main_code, guest_code) FROM '/home/vm1/Desktop/class_files/unit07/homes.csv' WITH header = true AND delimiter = '|';

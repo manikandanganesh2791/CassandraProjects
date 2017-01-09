@@ -1,0 +1,1 @@
+INSERT INTO location (vehicle_id, date, time, latitude, longitude) VALUES ('NERXH276', '2014-05-19', '2014-05-19 13:44:07', 41.129054, -100.921106) USING TTL 180;

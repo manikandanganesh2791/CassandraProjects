@@ -1,0 +1,1 @@
+ALTER KEYSPACE vehicle_tracker WITH REPLICATION = {'class': 'SimpleStrategy', 'replication_factor':2};

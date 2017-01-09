@@ -1,0 +1,1 @@
+COPY location (vehicle_id, date, time, latitude, longitude) FROM '/home/vm1/Desktop/class_files/unit08/coordinates.csv' WITH header = true AND delimiter = '|';

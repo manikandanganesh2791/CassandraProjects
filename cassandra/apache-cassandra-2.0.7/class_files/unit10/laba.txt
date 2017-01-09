@@ -1,0 +1,1 @@
+INSERT INTO activity (home_id, datetime, event) VALUES ('H01033638', '2014-05-22 14:43:07', 'alarm breached') USING TTL 20;

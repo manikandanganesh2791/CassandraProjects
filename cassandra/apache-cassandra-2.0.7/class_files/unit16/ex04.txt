@@ -1,0 +1,1 @@
+ALTER KEYSPACE vehicle_tracker WITH replication = {'class': 'NetworkTopologyStrategy', 'DC1': 2, 'DC2': 1};

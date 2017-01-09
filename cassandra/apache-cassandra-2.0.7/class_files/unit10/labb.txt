@@ -1,0 +1,1 @@
+UPDATE activity USING TTL 15552000 SET event = 'alarm breached' WHERE home_id = 'H01033638' AND datetime = '2014-05-22 14:43:07';

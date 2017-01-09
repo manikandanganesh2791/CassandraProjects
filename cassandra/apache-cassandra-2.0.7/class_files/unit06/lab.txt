@@ -1,0 +1,5 @@
+CREATE TABLE home (home_id text,address text,
+city text,
+state text,zip text,contact_name text,phone text,
+alt_phone text, phone_password text,email text, main_code text,
+guest_code text,PRIMARY KEY (home_id));

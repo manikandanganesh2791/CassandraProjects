@@ -1,0 +1,1 @@
+bin/sstable2json /var/lib/cassandra/data/home_security/activity/home_security-activity-jb-1-Data.db

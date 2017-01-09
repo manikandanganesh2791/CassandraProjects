@@ -1,0 +1,1 @@
+SELECT home_id, address, phone, alt_phone, contact_name FROM home WHERE home_id = 'H01474777';

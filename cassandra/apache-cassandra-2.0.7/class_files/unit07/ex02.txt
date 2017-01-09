@@ -1,0 +1,1 @@
+COPY activity (home_id, datetime, event, code_used) FROM '/home/vm1/Desktop/class_files/unit07/events.csv' WITH header = true AND delimiter = '|';

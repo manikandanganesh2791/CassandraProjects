@@ -1,0 +1,10 @@
+		out.println("<table>");
+		for (Row row : result)
+		{
+		   out.println("<tr>");
+		   out.println("<td>" + row.getDate("time") + "</td>");
+		   out.println("<td>" + row.getDouble("latitude") + "</td>");
+		   out.println("<td>" + row.getDouble("longitude") + "</td>");   
+		   out.println("</tr>");
+		}
+		out.println("</table>");

@@ -1,0 +1,1 @@
+ALTER KEYSPACE home_security WITH REPLICATION = {'class': 'SimpleStrategy', 'replication_factor':2};

@@ -1,0 +1,1 @@
+INSERT INTO home (home_id, address, city, state, zip, contact_name, phone, phone_password, email, main_code, guest_code) VALUES ('H01474777', '518 Crestview Drive', 'Beverly Hills', 'CA', '90046', 'Jed Clampett', '310-775-4011', 'oil', 'jclampett@bhb.com', '5599', '7778');

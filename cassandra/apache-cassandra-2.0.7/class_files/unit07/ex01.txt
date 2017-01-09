@@ -1,0 +1,1 @@
+INSERT INTO activity (home_id, datetime, event, code_used) VALUES ('H01474777', '2014-05-21 07:32:16', 'alarm set', '5599');

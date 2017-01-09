@@ -1,0 +1,1 @@
+bin/nodetool -h 192.168.159.102 repair vehicle_tracker
